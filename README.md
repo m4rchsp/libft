@@ -11,13 +11,15 @@ libft at 42 cursus
   ft  | status 
   --- | ---
   • atoi | -
+  • bzero | -
+  
+
   --- | --- 
 
     ft | status
     • atoi | -
     ---|---
 
-    • bzero
     • isalnum    
     • isalpha
     • isascii
