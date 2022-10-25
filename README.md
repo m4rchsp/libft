@@ -6,12 +6,12 @@ libft at 42 cursus
 ## Todo
 
 ### Liste de taches à faire:
-#### liste de fonctions:    
-ft | status
-• atoi | -
----|---
+#### liste de fonctions:
 
-
+  --- | ---
+  ft  | status
+  • atoi | -
+  --- | --- 
 
     ft | status
     • atoi | -
