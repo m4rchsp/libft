@@ -4,9 +4,9 @@ libft at 42 cursus
 =======
 
 ## Todo
-Liste de taches à faire:
-### liste de fonctions:
-    
+
+### Liste de taches à faire:
+#### liste de fonctions:    
     • atoi
     • bzero
     • isalnum    
