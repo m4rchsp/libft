@@ -6,7 +6,7 @@ libft at 42 cursus
 ## Todo
 Liste de taches à faire:
   * liste de fonctions;
-  * Makefile;
+  * Makefile.
  
 ### 3eme
 #### 4eme
