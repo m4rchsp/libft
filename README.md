@@ -7,7 +7,11 @@ libft at 42 cursus
 
 ### Liste de taches à faire:
 #### liste de fonctions:    
-    • atoi
+
+    ft | status
+    • atoi | -
+    ---|---
+
     • bzero
     • isalnum    
     • isalpha
