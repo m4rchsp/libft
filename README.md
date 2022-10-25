@@ -14,4 +14,4 @@ Liste de taches à faire:
  
 ### Blablabla
   1. aa.
->>>>>>> v0.00.001a (Initial commit)
+>>>>>>> v0.00.001b (Initial commit)
