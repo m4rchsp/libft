@@ -5,13 +5,41 @@ libft at 42 cursus
 
 ## Todo
 Liste de taches à faire:
-  * liste de fonctions;
-  * Makefile.
- 
-### 3eme
+### liste de fonctions:
+    
+    • atoi
+    • bzero
+    • isalnum    
+    • isalpha
+    • isascii
+    • isdigit
+    • isprint
+    • memchr
+    • memcmp
+    • memcpy
+    • memccpy
+    • memmove
+    • memset
+    • strcat
+    • strncat
+    • strchr
+    • strrchr
+    • strcmp
+    • strncmp
+    • strcpy
+    • strncpy
+    • strdup
+    • strlen
+    • strstr
+    • strnstr
+    • tolower
+    • toupper
+    
+### Makefile
+
 #### 4eme
   1. ....
  
 ### Blablabla
   1. aa.
->>>>>>> v0.00.001b (Initial commit)
+>>>>>>> v0.00.001.221025a
